@@ -1,8 +1,8 @@
+# AfterDark™
+
 <p align="center">
   <img src="images/ScreenshotLOGO.png" alt="AfterDark Logo" width="800"/>
 </p>
-
-# AfterDark™
 
 ![Build Status](https://img.shields.io/badge/build-beta-lightgrey) 
 ![License](https://img.shields.io/badge/license-LPRL-blueviolet) 
