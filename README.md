@@ -9,7 +9,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20x64-blueviolet) 
 ![Platform](https://img.shields.io/badge/platform-Linux%20x64-lightgrey)
 
-**A voxel-based, procedurally generated 3D world in C++ with real-time lighting and dynamic terrain.**
+**A Minecraft Clone created in C++ using raylib**
 
 <p align="center">
   <img src="images/gameplay.gif" alt="Gameplay GIF" width="600"/>
