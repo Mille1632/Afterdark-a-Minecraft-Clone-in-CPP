@@ -11,10 +11,6 @@
 
 **A Minecraft Clone created in C++ using raylib**
 
-<p align="center">
-  <img src="images/gameplay.gif" alt="Gameplay GIF" width="600"/>
-</p>
-
 ---
 ## Release Status
 
