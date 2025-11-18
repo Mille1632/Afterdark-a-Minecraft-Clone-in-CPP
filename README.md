@@ -73,4 +73,4 @@ Install Raylib in order for it to work:
 
 https://github.com/raysan5/raylib
 
-Also thanks to the developers of raylib for making this project possible
+Also thanks to the developers of raylib for making this project possible!
