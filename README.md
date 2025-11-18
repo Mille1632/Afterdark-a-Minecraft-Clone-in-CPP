@@ -32,8 +32,12 @@
 ## Screenshots
 
 <p align="center">
-  <img src="images/Screenshot1.png" width="400" style="display:inline-block;"/>
-  <img src="images/Screenshot2.png" width="400" style="display:inline-block;"/>
+<table>
+<tr>
+<td><img src="images/Screenshot1.png" width="400"/></td>
+<td><img src="images/Screenshot2.png" width="400"/></td>
+</tr>
+</table>
 </p>
 
 ---
