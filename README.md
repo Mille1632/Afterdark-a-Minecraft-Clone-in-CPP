@@ -4,10 +4,10 @@
 
 # AfterDark™
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
-![License](https://img.shields.io/badge/license-MIT-blue) 
-![Platform](https://img.shields.io/badge/platform-Windows%20x64-blueviolet) 
-![Platform](https://img.shields.io/badge/platform-Linux%20x64-lightgrey)
+![Build Status](https://img.shields.io/badge/build-beta-lightgrey) 
+![License](https://img.shields.io/badge/license-LPRL-blueviolet) 
+![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue) 
+![Platform](https://img.shields.io/badge/platform-Linux%20x64-yellow)
 
 **A Minecraft Clone created in C++ using raylib**
 
