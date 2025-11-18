@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="AfterDark Logo" width="300"/>
+  <img src="images/ScreenshotLOGO.png" alt="AfterDark Logo" width="800"/>
 </p>
 
 # AfterDark™
