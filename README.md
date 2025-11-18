@@ -2,7 +2,7 @@
   <img src="images/logo.png" alt="AfterDark Logo" width="300"/>
 </p>
 
-# AfterDark
+# AfterDark™
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
 ![License](https://img.shields.io/badge/license-MIT-blue) 
@@ -14,6 +14,11 @@
 <p align="center">
   <img src="images/gameplay.gif" alt="Gameplay GIF" width="600"/>
 </p>
+
+---
+## Release Status
+
+**These are all in BETA Release, so bugs *might* occur =)**
 
 ---
 
