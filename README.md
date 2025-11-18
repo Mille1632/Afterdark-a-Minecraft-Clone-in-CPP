@@ -43,7 +43,7 @@
 
 ---
 
-## Controls 🎮
+## Controls
 
 | Action             | Key / Mouse |
 |-------------------|-------------|
