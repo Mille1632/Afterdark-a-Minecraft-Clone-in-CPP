@@ -54,9 +54,14 @@
 
 ---
 
-## Installation / Build 🛠️
+Just download the executables above (Depending on your platform) and run.
 
-1. Clone the repository:
-```bash
-git clone https://github.com/<yourusername>/afterdark.git
-cd afterdark
+---
+
+## Dependencies
+
+Install Raylib in order for it to work:
+
+https://github.com/raysan5/raylib
+
+Also thanks to the developers of raylib for making this project possible
