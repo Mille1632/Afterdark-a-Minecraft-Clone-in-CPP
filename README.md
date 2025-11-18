@@ -17,7 +17,7 @@
 
 ---
 
-## Features 🚀
+## Features
 
 - Infinite procedurally generated voxel terrain
 - Real-time dynamic lighting and shadows
@@ -29,11 +29,11 @@
 
 ---
 
-## Screenshots 🌌
+## Screenshots
 
 <p align="center">
-  <img src="images/Screenshot1.png" width="400"/>
-  <img src="images/Screenshot2.png" width="400"/>
+  <img src="images/Screenshot1.png" width="400" style="display:inline-block;"/>
+  <img src="images/Screenshot2.png" width="400" style="display:inline-block;"/>
 </p>
 
 ---
