@@ -33,6 +33,7 @@
 
 <p align="center">
   <img src="images/Screenshot1.png" width="400"/>
+  <img src="images/Screenshot2.png" width="400"/>
 </p>
 
 ---
