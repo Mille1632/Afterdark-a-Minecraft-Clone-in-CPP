@@ -4,7 +4,10 @@
 
 # AfterDark
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Platform](https://img.shields.io/badge/platform-Windows%20x64-blueviolet)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
+![License](https://img.shields.io/badge/license-MIT-blue) 
+![Platform](https://img.shields.io/badge/platform-Windows%20x64-blueviolet) 
+![Platform](https://img.shields.io/badge/platform-Linux%20x64-lightgrey)
 
 **A voxel-based, procedurally generated 3D world in C++ with real-time lighting and dynamic terrain.**
 
