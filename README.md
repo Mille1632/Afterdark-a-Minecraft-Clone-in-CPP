@@ -9,7 +9,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue) 
 ![Platform](https://img.shields.io/badge/platform-Linux%20x64-yellow)
 
-**A Minecraft Clone created in C++ using raylib**
+**A Minecraft Clone created in C++ using raylib *(From scratch)***
 
 ---
 ## Release Status
