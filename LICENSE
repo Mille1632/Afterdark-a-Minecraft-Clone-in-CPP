@@ -1,0 +1,99 @@
+Lunar Permissive-Restrictive License (LPRL) v1.0
+
+Copyright (c) 2025 Lunar Software Interactive
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software only under the following rights and restrictions:
+
+  • to use, copy, run, execute and modify the Software for Personal Use or
+    Private Use (as defined below);
+
+  • to submit feedback, bug reports, or modifications (each a "Contribution")
+    privately to the Copyright Holder;
+
+  • to share modified Source Code only by offering it privately to the
+    Copyright Holder in accordance with the Submission Procedure below.
+
+Except as expressly permitted above, no other rights are granted. In particular,
+without prior written authorization from the Copyright Holder, you may not:
+  (a) distribute, publish, host, sublicense, transfer, sublicense, or otherwise
+      make the Software or any Derivative Work available to the public in any
+      form (including Compiled Forms such as binaries, object code, or
+      executables);
+  (b) use the Software or any Derivative Work for Commercial Use;
+  (c) remove or alter any copyright, trademark or license notice contained in
+      the Software; or
+  (d) represent the Software or any Derivative Work as your own.
+
+The above copyright notice and this permission notice, including these
+restrictions, shall be included in all copies or substantial portions of the
+Software that are distributed in accordance with an express written license
+from the Copyright Holder.
+
+Definitions.
+  "Personal Use" means use by a natural person for private, non-commercial,
+  non-public activities unrelated to any business or compensated undertaking.
+  "Private Use" means internal use within an organization for evaluation,
+  testing, or development that is not distributed outside the organization or
+  used for commercial advantage.
+  "Compiled Form" includes binaries, object code, executables, libraries, and
+  any non-source representation of the Software.
+  "Derivative Work" means any work that is based upon or derived from the
+  Software, in whole or in part.
+
+Submission Procedure.
+  If You modify the Source Code and wish (or are required) to share that
+  modification, You must submit the modified Source Code and a change summary
+  to the Copyright Holder at the contact address provided with the Software
+  (or another address the Copyright Holder has publicly designated) and obtain
+  an acknowledgement. The Copyright Holder will acknowledge receipt within
+  fourteen (14) days. An acknowledgement does not imply acceptance, approval,
+  or any transfer of rights.
+
+Contributions.
+  By submitting any Contribution to the Copyright Holder, You grant the
+  Copyright Holder a perpetual, irrevocable, worldwide, royalty-free,
+  transferable license to use, reproduce, modify, distribute and otherwise
+  exploit such Contribution, and You represent that You have the authority
+  to make that grant.
+
+Patent.
+  The Copyright Holder hereby grants You a limited, non-transferable,
+  royalty-free license under any patent claims owned or controlled by the
+  Copyright Holder that are necessarily infringed by the unmodified Software
+  as provided to You, solely for Your Personal Use or Private Use. No patent
+  license is granted for Derivative Works or Commercial Use. If You initiate
+  patent litigation asserting that the Software infringes a patent, this
+  License and the patent license granted herein terminate immediately.
+
+Termination.
+  This License and the rights granted hereunder will terminate automatically
+  if You fail to comply with any term of this License. Upon termination You
+  must cease all use of the Software and destroy all copies in Your possession
+  or control. Sections entitled "Contributions", "Patent", "Termination",
+  "Disclaimer" and "Limitation of Liability" shall survive termination.
+
+Disclaimer.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+
+Limitation of Liability.
+  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER'S
+  TOTAL LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS LICENSE OR THE
+  SOFTWARE SHALL NOT EXCEED ONE HUNDRED U.S. DOLLARS (US $100).
+
+Governing Law and Venue.
+  This License is governed by the laws of the Republic of the Philippines. Any dispute arising
+  under or related to this License shall be brought exclusively in the courts
+  of the Republic of the Philippines.
+
+Severability.
+  If any provision of this License is held to be unenforceable, the remainder
+  shall continue in full force and effect.
+
